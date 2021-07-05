@@ -1,0 +1,25 @@
+{
+	"foods": [
+		{
+			"id": 1,
+			"produto": "Bolo de Morango",
+			"preco": 5.99,
+			"imagem": "https://i0.wp.com/www.flamboesa.com.br/wp-content/uploads/2018/05/bolo-morango-e-brigadeiro_476.jpg",
+			"quantidade": 0
+		},
+		{
+			"id": 2,
+			"produto": "Bolo de Chocolate",
+			"preco": 5.99,
+			"imagem": "https://priscilapiardi.com/wp-content/uploads/2020/09/Editada-IMG_6692-scaled.jpg",
+			"quantidade": 0
+		},
+		{
+			"id": 3,
+			"produto": "Bolo de Nutella",
+			"preco": 5.99,
+			"imagem": "https://img-global.cpcdn.com/recipes/981801c8c483d345/751x532cq70/foto-principal-da-receita-bolo-de-chocolate-com-buttercream-de-nutella.jpg",
+			"quantidade": 0
+		}
+	]
+}
